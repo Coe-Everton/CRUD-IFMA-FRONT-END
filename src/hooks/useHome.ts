@@ -2,7 +2,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 
 interface Data{
-    Tables_in_ifma:string
+    Tables_in_railway:string
 }
 
 export default function useHome() {

@@ -10,8 +10,8 @@ export default function Home(){
             
             {
                 data.map((value) => (
-                    <Link to={`/${value.Tables_in_ifma}`} key={value.Tables_in_ifma} className="py-[0.3vw] text-lg w-1/6 self-center hover:underline hover:text-purple-800 hover:cursor-pointer">
-                        {value.Tables_in_ifma}
+                    <Link to={`/${value.Tables_in_railway}`} key={value.Tables_in_railway} className="py-[0.3vw] text-lg w-1/6 self-center hover:underline hover:text-purple-800 hover:cursor-pointer">
+                        {value.Tables_in_railway}
                     </Link>
                 ))
             }
