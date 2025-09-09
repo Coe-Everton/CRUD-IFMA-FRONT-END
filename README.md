@@ -33,9 +33,31 @@
   
 </details>
 
-<p align="center">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
-</p>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <p>
+      <img src="./src/public/crud-ifma-front-end.vercel.app_dicentes (1).png" alt="Image Example" width="400px">
+  </p>
+  <p>
+      <img src="./src/public/crud-ifma-front-end.vercel.app_dicentes.png" alt="Image Example" width="400px">
+  </p>
+  <p>
+      <img src="./src/public/crud-ifma-front-end.vercel.app_dicentes (2).png" alt="Image Example" width="400px">
+  </p>
+</div>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <p>
+      <img src="./src/public//crud-ifma-front-end.vercel.app_docentes (1).png" alt="Image Example" width="400px">
+  </p>
+  <p>
+      <img src="./src/public/cursos crud-ifma.png" alt="Image Example" width="400px">
+  </p>
+  <p>
+      <img src="./src/public/cursos form crud-ifma.png" alt="Image Example" width="400px">
+  </p>
+  <p>
+      <img src="./src/public/home crud-ifma.png" alt="Image Example" width="400px">
+  </p>
+</div>
 
 <h2 id="started">📌 About</h2>
 
